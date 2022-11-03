@@ -9,10 +9,11 @@ print("The average per week:", average)
 weeks_left = money_left / average
 print("You have approx.", weeks_left, "weeks left to travel")
 
+print("\n**************************************\n")
+
 # In this script I check if the average of the list is contained in the list
 grades = [81, 70, 75, 96, 99, 100, 87, 80, 100]
 print("Testing the following grades list:", grades)
-print("**************************************")
 
 # DO NOT CHANGE THIS LINE:
 print("Your solution: ", end="")
